@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Project Manager at [@Rocket-JR]<br>- Information Systems Student at UFAL<br>- Researcher in the area of ​​machine learning<br>- Aspiring full stack developer</p>
+<p align="left">- Vice President at [@Rocket-JR]<br>- Information Systems Student at UFAL<br>- Researcher in the area of ​​machine learning<br>- Aspiring full stack developer</p>
 
 ###
 
